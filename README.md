@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋 I'm Ioannis Kaldiris </h1>
 
 ## About Me:
-I am a **Computer Engineering student** passionate about coding, machine learning, and building robust applications.
+I am a **Computer Engineering and infomatics student** passionate about coding, machine learning, and building robust applications.
 
 ## 🚀 What I'm Up To
 - 🔬 Exploring **Machine Learning**
