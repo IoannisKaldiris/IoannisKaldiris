@@ -8,7 +8,7 @@ I am a **Computer Engineering student** passionate about coding, machine learnin
 - 🏗️ Building **Spring Boot applications** with PostgreSQL
 - 🔍 Analyzing **Ransomware attack mitigation strategies** for my thesis
 
-Check out my [coding portfolio!](your-portfolio-link)
+Check out my [coding portfolio!]([your-portfolio-link](https://github.com/IoannisKaldiris?tab=repositories))
 
 ## 👨‍💻 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ioannis-kaldiris-9b461227a/)
