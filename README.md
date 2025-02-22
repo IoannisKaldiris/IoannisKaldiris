@@ -1,11 +1,12 @@
 <h1 align="center"> Hi 👋 I'm Ioannis Kaldiris </h1>
 
 ## About Me:
-💫 About Me:
-I’m a Computer Science student currently attending Computer Engineering and Informatics Department at University of Patras. I’m honing my software skills with hard work and passion for the field of software development. My area of expertise consists of object-oriented programming, functional programming, data structures and full stack development.
+I am a **Computer Engineering student** passionate about coding, machine learning, and building robust applications.
 
-## 🚀 What I'm Up To Right Now
-- 🏗️ Building **Spring Boot application** with PostgreSQL
+## 🚀 What I'm Up To
+- 🔬 Exploring **Machine Learning**
+- 🏗️ Building **Spring Boot applications** with PostgreSQL
+- 🔍 Analyzing **Ransomware attack mitigation strategies** for my thesis
 
 Check out my [coding portfolio!](your-portfolio-link)
 
@@ -16,19 +17,51 @@ Check out my [coding portfolio!](your-portfolio-link)
 
 ## 🛠 Tech Stack:
 ### **Languages:**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Prolog](https://img.shields.io/badge/-Prolog-red?style=flat)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
+![Assembly](https://img.shields.io/badge/-Assembly-gray?style=flat)
+![Verilog](https://img.shields.io/badge/-Verilog-darkred?style=flat)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json)
+
+---
 
 ### **Developer Tools:**
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![VMware](https://img.shields.io/badge/-VMware-607078?style=flat&logo=vmware)
+![Agile](https://img.shields.io/badge/-Agile-blue?style=flat)
+
+---
 
 ### **Libraries & Frameworks:**
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Spring
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
+![Angular.js](https://img.shields.io/badge/-Angular.js-DD0031?style=flat&logo=angular)
+![PyQt](https://img.shields.io/badge/-PyQt-41CD52?style=flat)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
+![UNIX](https://img.shields.io/badge/-UNIX-000000?style=flat)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
+![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian)
+![KVM](https://img.shields.io/badge/-KVM-660066?style=flat)
+![RHEL](https://img.shields.io/badge/-RHEL-EE0000?style=flat&logo=redhat)
+![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?style=flat&logo=overleaf)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
+
+---
+
+## **📊 GitHub Stats**
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ioannisKaldiris&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ioannisKaldiris&theme=tokyonight" />
+</p>
