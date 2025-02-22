@@ -1,16 +1,16 @@
 <h1 align="center"> Hi 👋 I'm Ioannis Kaldiris </h1>
 
 ## About Me:
-I am a **Computer Engineering student** passionate about coding, machine learning, and building robust applications.
+💫 About Me:
+I’m a Computer Science student currently attending Computer Engineering and Informatics Department at University of Patras. I’m honing my software skills with hard work and passion for the field of software development. My area of expertise consists of object-oriented programming, functional programming, data structures and full stack development.
 
-## 🚀 What I'm Up To
-- 🔬 Exploring **Machine Learning**
-- 🏗️ Building **Spring Boot applications** with PostgreSQL
+## 🚀 What I'm Up To Right Now
+- 🏗️ Building **Spring Boot application** with PostgreSQL
 
 Check out my [coding portfolio!](your-portfolio-link)
 
 ## 👨‍💻 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](your-linkedin-link)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ioannis-kaldiris-9b461227a/)
 
 ---
 
