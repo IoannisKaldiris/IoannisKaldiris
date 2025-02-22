@@ -9,7 +9,7 @@ I am a **Computer Engineering and Informatics student at the University of Patra
 - 🏗️ Building **Spring Boot applications** with PostgreSQL
 - 🔍 Analyzing **Ransomware attack mitigation strategies** for my thesis
 
-Check out my [coding portfolio!]([your-portfolio-link](https://github.com/IoannisKaldiris?tab=repositories))
+Check out my [coding portfolio!]([https://github.com/IoannisKaldiris?tab=repositories](https://github.com/IoannisKaldiris?tab=repositories))
 
 ## 👨‍💻 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ioannis-kaldiris-9b461227a/)
