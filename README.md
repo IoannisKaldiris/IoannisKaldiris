@@ -6,7 +6,7 @@ I am a **Computer Engineering and Informatics student at the University of Patra
 
 ## 🚀 What I'm Up To
 - 🔬 Exploring **Machine Learning**
-- 🏗️ Building **Spring Boot applications** with PostgreSQL
+- 🏗️ Currently building a **Spring Boot application** with PostgreSQL while integrating Kafka
 - 🔍 Analyzing **Ransomware attack mitigation strategies** for my thesis
 
 [My Coding Portfolio!](https://github.com/IoannisKaldiris?tab=repositories)
