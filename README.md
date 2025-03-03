@@ -6,7 +6,7 @@ I am a **Computer Engineering and Informatics student at the University of Patra
 
 ## 🚀 What I'm Up To
 - 🧩 Solving problems on LeetCode
-- 🏗️ Currently building a **Spring Boot application** with PostgreSQL while integrating Kafka
+- 🏗️ Building a **Spring Boot application** with PostgreSQL while integrating Kafka
 - 🔍 **Analysis of Ransomware Attacks and Mitigation Strategies in Interconnected Information Systems** for my thesis
 
 [My Coding Portfolio!](https://github.com/IoannisKaldiris?tab=repositories)
