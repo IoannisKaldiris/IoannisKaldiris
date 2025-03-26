@@ -37,6 +37,7 @@ I am a **Computer Engineering and Informatics student at the University of Patra
 ---
 
 ### **Developer Tools:**
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![VMware](https://img.shields.io/badge/-VMware-607078?style=flat&logo=vmware)
