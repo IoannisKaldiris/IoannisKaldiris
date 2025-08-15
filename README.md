@@ -44,6 +44,12 @@ I am a **Computer Engineering and Informatics student at the University of Patra
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![VMware](https://img.shields.io/badge/-VMware-607078?style=flat&logo=vmware)
 ![Agile](https://img.shields.io/badge/-Agile-blue?style=flat)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=flat&logo=eclipseide&logoColor=white)
+![SoapUI](https://img.shields.io/badge/SoapUI-6CB33E?style=flat&logo=soapui&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=000000)
+
 
 ---
 
@@ -62,6 +68,9 @@ I am a **Computer Engineering and Informatics student at the University of Patra
 ![RHEL](https://img.shields.io/badge/-RHEL-EE0000?style=flat&logo=redhat)
 ![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?style=flat&logo=overleaf)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
 
 ---
 
