@@ -83,15 +83,15 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
 
 <details>
-  <summary><b>Other experience</b></summary>
-  
-  <!-- Keep these tucked away to avoid visual clutter -->
-  <br>
-  ![Prolog](https://img.shields.io/badge/-Prolog-red?style=flat)
-  ![Assembly](https://img.shields.io/badge/-Assembly-gray?style=flat)
-  ![Verilog](https://img.shields.io/badge/-Verilog-darkred?style=flat)
-  ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json)
+<summary>▼ Other experience</summary>
+
+![Prolog](https://img.shields.io/badge/-Prolog-red?style=flat)  
+![Assembly](https://img.shields.io/badge/-Assembly-gray?style=flat)  
+![Verilog](https://img.shields.io/badge/-Verilog-darkred?style=flat)  
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json)  
+
 </details>
+
 
 ---
 
