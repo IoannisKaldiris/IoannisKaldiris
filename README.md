@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋 I'm Ioannis Kaldiris</h1>
 
 ## 👨‍🎓 Academic Background
-- 🎓 **M.Sc. in Computer Engineering & Informatics** – University of Patras  
-  Focus on **software engineering, computer networks, and machine learning**.
+- 🎓 **Integrated Master of Science (M.Sc.) in Computer Engineering & Informatics** – University of Patras  
+  A five-year program (300 ECTS) with emphasis on **software engineering, computer networks, hardware and machine learning**.  
 - 📖 **M.Sc. in Information & Communication Systems Security** – University of the Aegean *(in progress)*  
   Building depth in **network & wireless security, cryptography, database security, digital forensics, privacy, and security management**.  
   ➡️ Research direction: **Wireless & Mobile Network Security**.
