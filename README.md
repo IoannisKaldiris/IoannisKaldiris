@@ -11,7 +11,6 @@
 
 ## 💼 Work Experience
 - 💻 **Junior Software Engineer** – currently working on backend systems and APIs.  
-- 🏗️ Building a **Spring Boot application** with PostgreSQL & Kafka to deepen backend expertise.  
 
 
 ---
