@@ -23,14 +23,15 @@
 ---
 
 ## 📂 Featured Projects
-- **Employee Management System (Java)** – OOP design, CRUD, layered architecture  
-  *(add repo link)*  
-- **4G Network Simulation (Python)** – scheduling algorithms, mobility, metrics  
-  *(add repo link)*  
-- **E-commerce Database (MySQL)** – schema + indexes, triggers, procedures, views  
-  *(add repo link)*  
+- **Employee Management System (Java)** – Currently developing a system with OOP principles, full CRUD operations, and layered architecture.  
 
-> Replace “*(add repo link)*” with your actual repository links when ready.
+- **Penetration Testing Scripts (Python)** – Writing Python scripts to automate penetration testing tasks, experiment with attack/defense scenarios, and apply concepts from HTB & THM labs.  
+
+- **University Information Management Database (MySQL)** – Designing a relational schema with indexes, foreign keys, triggers, stored procedures, and views to manage student, course, and enrollment data efficiently.  
+
+- **CI/CD Practice Pipelines** – Building and testing pipelines with GitHub Actions and Jenkins to automate testing, building, and deployment processes.  
+
+- **WebLogic Administration Labs** – Practicing deployment, monitoring, and configuration of enterprise applications using Oracle WebLogic, connected to current role experience.  
 
 ---
 
