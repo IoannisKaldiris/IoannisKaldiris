@@ -15,9 +15,9 @@
 ---
 
 ## 🚀 What I'm Working On
-- 🏗️ **Spring Boot** + **PostgreSQL** + **Kafka** (backend focus)  
 - 🔐 Training on **HackTheBox** & **TryHackMe** (pen-test scripting in Python)  
 - 🧩 Problem solving on **LeetCode**
+- - 🏗️ **Spring Boot** + **PostgreSQL** + **Kafka** (backend focus)  
 
 ---
 
