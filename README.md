@@ -1,37 +1,41 @@
 <h1 align="center">Hi 👋 I'm Ioannis Kaldiris</h1>
 
 ## 👨‍🎓 Academic Background
-- 🎓 **M.Sc. in Computer Engineering & Informatics** – University of Patras  
-  Focus on **software engineering, computer networks, and machine learning**.  
+- 🎓 **B.Sc. in Computer Engineering & Informatics** – University of Patras  
+  Focus on **software engineering, computer networks, and machine learning**.
 - 📖 **M.Sc. in Information & Communication Systems Security** – University of the Aegean *(in progress)*  
-  Coursework in **network security, database security, cryptography, forensics, information systems security management, wireless & mobile networks security, internet privacy**.  
-  ➡️ Research/thesis direction: **Wireless & Mobile Network Security**.  
+  Building depth in **network & wireless security, cryptography, database security, digital forensics, privacy, and security management**.  
+  ➡️ Research direction: **Wireless & Mobile Network Security**.
 
 ---
 
 ## 💼 Work Experience
-- 💻 **Junior Software Engineer** – currently working on backend systems and APIs.  
-
+- 💻 **Junior Software Engineer** — backend systems & APIs (professional and personal projects).
 
 ---
 
 ## 🚀 What I'm Working On
-- 🔐 Actively training on **HackTheBox (HTB)** and **TryHackMe (THM)** as an aspiring **Pentester / Cybersecurity Engineer**.  
-- 🧩 Practicing problem solving on **LeetCode**  
-- 🛠️ Side projects in **Spring Boot**, **network simulations**, and **SQL**  
+- 🏗️ **Spring Boot** + **PostgreSQL** + **Kafka** (backend focus)  
+- 🔐 Training on **HackTheBox** & **TryHackMe** (pen-test scripting in Python)  
+- 🧩 Problem solving on **LeetCode**
 
 ---
 
-## 📂 Featured Projects
-- **Employee Management System (Java)** – Currently developing a system with OOP principles, full CRUD operations, and layered architecture.  
+## 📂 Featured Projects (Work & Personal Development)
+- **Employee Management System (Java)** – OOP design, full CRUD, layered architecture *(Work in Progress)*  
+- **Penetration Testing Scripts (Python)** – automation for pentesting tasks; experimenting with attack/defense scenarios *(Work in Progress)*  
+- **University Information Management Database (MySQL)** – schema with indexes, FKs, triggers, procedures, and views *(Work in Progress)*  
+- **CI/CD Practice Pipelines** – GitHub Actions / Jenkins for test, build, and deploy automation *(Work in Progress)*  
+- **WebLogic Administration Labs** – deployment, configuration, and monitoring for enterprise apps *(Notes/Practice)*
 
-- **Penetration Testing Scripts (Python)** – Writing Python scripts to automate penetration testing tasks, experiment with attack/defense scenarios, and apply concepts from HTB & THM labs.  
+---
 
-- **University Information Management Database (MySQL)** – Designing a relational schema with indexes, foreign keys, triggers, stored procedures, and views to manage student, course, and enrollment data efficiently.  
-
-- **CI/CD Practice Pipelines** – Building and testing pipelines with GitHub Actions and Jenkins to automate testing, building, and deployment processes.  
-
-- **WebLogic Administration Labs** – Practicing deployment, monitoring, and configuration of enterprise applications using Oracle WebLogic, connected to current role experience.  
+## 🎓 Academic Focus (Master’s Security Track)
+- Network & Wireless Security  
+- Cryptography & Privacy  
+- Database Security  
+- Digital Forensics  
+- Security Management & Governance
 
 ---
 
@@ -91,8 +95,6 @@
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json)
 
 </details>
-
-
 
 ---
 
