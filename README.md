@@ -3,7 +3,27 @@
 ## About Me:
 I am a **Computer Engineering and Informatics graduate from the University of Patras**, currently working as a **Junior Software Engineer**. Passionate about coding, machine learning, and software development, I am always eager to expand my knowledge and tackle challenging problems.  
 
-At the moment, I am contributing on a **Java application** to further strengthen my backend expertise and deepen my understanding of modern software development practices. I enjoy contributing to impactful projects, learning new technologies, and growing as a developer.  
+At the moment, I am contributing on a **Java application** to further strengthen my backend expertise and deepen my understanding of modern software development practices. I enjoy contributing to impactful projects, learning new technologies, and growing as a developer.
+
+🔐 Pursuing a **Master’s in Information and Communication Systems Security** at the University of the Aegean.  
+💻 Passionate about **coding, backend development, and cybersecurity**, always seeking to grow and take on new challenges.  
+
+---
+
+### 🔒 Cybersecurity Focus  
+- Gaining expertise in **network and wireless security**, with emphasis on next-generation mobile and internet systems.  
+- Building strong knowledge in **cryptography, database security, digital forensics, and information systems security management**.  
+- Exploring **legal and privacy aspects of information security** to complement technical skills.  
+- Actively training on **HackTheBox (HTB)** and **TryHackMe (THM)** as an aspiring **Penetration Tester / Cybersecurity Engineer**.  
+- Preparing a **Master’s thesis** on **Wireless and Mobile Network Security**.  
+
+---
+
+### 🚀 Current Work  
+- Developing a **Spring Boot application** to strengthen my backend expertise.  
+- Continuously learning and experimenting with **cybersecurity tools, frameworks, and real-world attack/defense scenarios**.  
+- Striving to combine **software engineering** with **cybersecurity research** to build secure and efficient systems.  
+
 
 
 ## 🚀 What I'm Up To
