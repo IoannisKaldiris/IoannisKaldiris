@@ -8,7 +8,7 @@ At the moment, I am contributing on a **Java application** to further strengthen
 
 ## 🚀 What I'm Up To
 - 🧩 Solving problems on LeetCode
-- 🏗️ Building a **Spring Boot application** with PostgreSQL while integrating Kafka
+- 🏗️ Building  a **Spring Boot application** with PostgreSQL while integrating Kafka
 - 🔍 **Analysis of Ransomware Attacks and Mitigation Strategies in Interconnected Information Systems** for my thesis
 
 [My Coding Portfolio!](https://github.com/IoannisKaldiris?tab=repositories)
