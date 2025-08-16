@@ -1,7 +1,9 @@
 <h1 align="center"> Hi 👋 I'm Ioannis Kaldiris </h1>
 
 ## About Me:
-I am a **Computer Engineering and Informatics student at the University of Patras**, currently completing my thesis before earning my degree. Passionate about coding, machine learning, and software development, I am also working on a **Spring Boot application** to enhance my backend expertise.
+I am a **Computer Engineering and Informatics graduate from the University of Patras**, currently working as a **Junior Software Engineer**. Passionate about coding, machine learning, and software development, I am always eager to expand my knowledge and tackle challenging problems.  
+
+At the moment, I am contributing on a **Java application** to further strengthen my backend expertise and deepen my understanding of modern software development practices. I enjoy contributing to impactful projects, learning new technologies, and growing as a developer.  
 
 
 ## 🚀 What I'm Up To
