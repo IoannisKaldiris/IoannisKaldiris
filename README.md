@@ -12,12 +12,12 @@
 ## 💼 Work Experience
 - 💻 **Junior Software Engineer** – currently working on backend systems and APIs.  
 - 🏗️ Building a **Spring Boot application** with PostgreSQL & Kafka to deepen backend expertise.  
-- 🔐 Actively training on **HackTheBox (HTB)** and **TryHackMe (THM)** as an aspiring **Pentester / Cybersecurity Engineer**.  
+
 
 ---
 
 ## 🚀 What I'm Working On
-- 🔍 Researching **Ransomware Attacks & Mitigation Strategies** for my master’s work  
+- 🔐 Actively training on **HackTheBox (HTB)** and **TryHackMe (THM)** as an aspiring **Pentester / Cybersecurity Engineer**.  
 - 🧩 Practicing problem solving on **LeetCode**  
 - 🛠️ Side projects in **Spring Boot**, **network simulations**, and **SQL**  
 
