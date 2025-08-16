@@ -15,8 +15,8 @@ I am a **Computer Engineering and Informatics student at the University of Patra
 ## 👨‍💻 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ioannis-kaldiris-9b461227a/)
 
-![GitHub Snake Purple](https://raw.githubusercontent.com/IoannisKaldiris/IoannisKaldiris/output/github-snake-purple.svg)
-
+![GitHub Snake Light](https://raw.githubusercontent.com/IoannisKaldiris/IoannisKaldiris/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/IoannisKaldiris/IoannisKaldiris/output/github-snake-dark.svg#gh-dark-mode-only)
 
 ---
 
