@@ -44,8 +44,11 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IoannisKaldiris&layout=compact&theme=tokyonight)
 
 
-## 👨‍💻 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ioannis-kaldiris-9b461227a/)
+## 👨‍💻
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ioannis%20Kaldiris-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ioannis-kaldiris-9b461227a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=flat&logo=firefox)](https://your-portfolio-link)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:your@email.com)
+
 
 ---
 
