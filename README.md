@@ -39,6 +39,11 @@
 
 ---
 
+## 📊 GitHub Stats
+![Ioannis's GitHub stats](https://github-readme-stats.vercel.app/api?username=IoannisKaldiris&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IoannisKaldiris&layout=compact&theme=tokyonight)
+
+
 ## 👨‍💻 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ioannis-kaldiris-9b461227a/)
 
