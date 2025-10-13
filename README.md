@@ -95,7 +95,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
 
 <details>
-<summary>Other experience</summary>
+<summary>Other technologies</summary>
 
 ![Prolog](https://img.shields.io/badge/-Prolog-red?style=flat)
 ![Assembly](https://img.shields.io/badge/-Assembly-gray?style=flat)
