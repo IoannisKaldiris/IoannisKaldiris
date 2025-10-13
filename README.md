@@ -10,7 +10,7 @@
 ---
 
 ## 💼 Work Experience
-- 💻 **Junior Software Engineer** — backend systems & APIs (professional and personal projects).
+- 💻 **Junior Software Engineer** — backend systems & APIs.
 
 ---
 
