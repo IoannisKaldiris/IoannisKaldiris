@@ -40,8 +40,9 @@
 ---
 
 ## 📊 GitHub Stats
-![Ioannis's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=IoannisKaldiris&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IoannisKaldiris&layout=compact&theme=tokyonight)
+![Ioannis's GitHub stats](https://YOUR-VERCEL-APP.vercel.app/api?username=IoannisKaldiris&show_icons=true&theme=tokyonight)
+![Top Languages](https://YOUR-VERCEL-APP.vercel.app/api/top-langs/?username=IoannisKaldiris&layout=compact&theme=tokyonight)
+
 
 
 
