@@ -40,8 +40,9 @@
 ---
 
 ## 📊 GitHub Stats
-![Ioannis's GitHub stats](https://github-readme-stats.vercel.app/api?username=IoannisKaldiris&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IoannisKaldiris&layout=compact&theme=tokyonight)
+![Ioannis's GitHub stats](https://github-readme-stats.vercel.app/api?username=IoannisKaldiris&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IoannisKaldiris&layout=compact&theme=tokyonight&cache_seconds=1800)
+
 
 
 ## 👨‍💻 Connect with me
