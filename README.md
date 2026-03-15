@@ -38,7 +38,7 @@ Includes recon/enumeration, web content discovery, credential attack simulation,
 
 ➡️ Repo: https://github.com/IoannisKaldiris/snort-splunk-ids/tree/main
 
-*(If you have writeups, add: “Writeup: /docs” or a separate repo link here.)*
+
 
 ---
 
