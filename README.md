@@ -1,67 +1,107 @@
 <h1 align="center">Hi 👋 I'm Ioannis Kaldiris</h1>
 
-<p align="center">
-Junior Cybersecurity Practitioner (Blue + Red) • Software Engineer background • Athens, Greece
-</p>
-
-<p align="center">
-  <a href="mailto:ioanniskaldiris@gmail.com">ioanniskaldiris@gmail.com</a> •
-  <a href="https://www.linkedin.com/in/ioannis-kaldiris-9b461227a/">LinkedIn</a> •
-  <a href="https://github.com/IoannisKaldiris">GitHub</a>
-</p>
+## 👨‍🎓 Academic Background
+- 🎓 **Integrated Master of Science (M.Sc.) in Computer Engineering & Informatics** – University of Patras  
+  A five-year program (300 ECTS) with emphasis on **software engineering, computer networks, hardware and machine learning**.  
+- 📖 **M.Sc. in Information & Communication Systems Security** – University of the Aegean *(in progress)*  
+  Building depth in **network & wireless security, cryptography, database security, digital forensics, privacy, and security management**.  
+  ➡️ Research direction: **Wireless & Mobile Network Security**.
 
 ---
 
-## 🔐 Focus
-I’m building practical skills across **Security Monitoring / Incident Analysis (SOC)** and **Penetration Testing / Red Team tradecraft**.  
-I like lab work that connects **attacker activity → detection/visibility → clear reporting & fixes**.
+## 💼 Work Experience
+- 💻 **Junior Software Engineer** — backend systems & APIs.
 
 ---
 
-## 🧠 What I’m Practicing (hands-on)
-**Red Team / Pentest**
-- Kali Linux, Burp Suite, Nmap, Metasploit
-- Web & infrastructure testing methodology: recon → enumeration → exploitation attempts → privilege escalation practice
-- Hack The Box / TryHackMe labs (active) with structured notes and evidence capture
-
-**Blue Team / SOC**
-- Splunk (SIEM), SPL searches, dashboards, alert triage and log analysis
-- Snort (IDS) rule tuning and detection validation
-- Incident-style documentation: what happened, how we know, impact, recommendations
+## 🚀 What I'm Working On
+- 🔐 Training on **HackTheBox** & **TryHackMe** (pen-test scripting in Python)  
+- 🧩 Problem solving on **LeetCode**
+- 🏗️ **Spring Boot** + **PostgreSQL** + **Kafka** (backend focus)  
 
 ---
 
-## 📌 Featured Security Projects
-### 🔴🟦 Red Team Attack Emulation + Detection Validation (Snort + Splunk)
-Simulated attacks from a **Kali attacker** against an **Ubuntu target**, then validated detections end-to-end (**Snort rules → Splunk visibility**).  
-Includes recon/enumeration, web content discovery, credential attack simulation, and availability attack simulation, plus rule tuning and reporting.
+## 📂 Featured Projects (Work & Personal Development)
+- **Employee Management System (Java)** – OOP design, full CRUD, layered architecture *(Work in Progress)*  
+- **Penetration Testing Scripts (Python)** – automation for pentesting tasks; experimenting with attack/defense scenarios *(Work in Progress)*  
+- **University Information Management Database (MySQL)** – schema with indexes, FKs, triggers, procedures, and views *(Work in Progress)*  
+- **CI/CD Practice Pipelines** – GitHub Actions / Jenkins for test, build, and deploy automation *(Work in Progress)*  
+- **WebLogic Administration Labs** – deployment, configuration, and monitoring for enterprise apps *(Notes/Practice)*
 
-➡️ Repo: https://github.com/IoannisKaldiris/snort-splunk-ids/tree/main
+---
 
+## 🎓 Academic Focus (Master’s Security Track)
+- Network & Wireless Security  
+- Cryptography & Privacy  
+- Database Security  
+- Digital Forensics  
+- Security Management & Governance
+
+---
+
+
+## 👨‍💻 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ioannis%20Kaldiris-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ioannis-kaldiris-9b461227a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=flat&logo=firefox)](https://github.com/IoannisKaldiris?tab=repositories)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:ioanniskaldiris@gmail.com)
 
 
 ---
 
-## 💼 Experience
-**Production Support & Integrations Engineer (Enterprise Telecom)**  
-Hands-on work with monitoring signals, troubleshooting, evidence collection, controlled deployments, and clear technical documentation.  
-This helped me build strong discipline for structured analysis and reporting under pressure.
+## 🛠 Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql)
+
+### Developer Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![VMware](https://img.shields.io/badge/-VMware-607078?style=flat&logo=vmware)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=flat&logo=eclipseide&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=000)
+![SoapUI](https://img.shields.io/badge/SoapUI-6CB33E?style=flat&logo=soapui&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+### Libraries & Frameworks
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![PyQt](https://img.shields.io/badge/-PyQt-41CD52?style=flat)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
+![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian)
+![UNIX](https://img.shields.io/badge/-UNIX-000000?style=flat)
+![RHEL](https://img.shields.io/badge/-RHEL-EE0000?style=flat&logo=redhat)
+![KVM](https://img.shields.io/badge/-KVM-660066?style=flat)
+![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?style=flat&logo=overleaf)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
+
+<details>
+<summary>Other technologies</summary>
+
+![Prolog](https://img.shields.io/badge/-Prolog-red?style=flat)
+![Assembly](https://img.shields.io/badge/-Assembly-gray?style=flat)
+![Verilog](https://img.shields.io/badge/-Verilog-darkred?style=flat)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json)
+
+</details>
 
 ---
 
-## 🎓 Education
-- **M.Sc. Information & Communication Systems Security** — University of the Aegean *(in progress)*
-- **Integrated M.Sc. Computer Engineering & Informatics** — University of Patras *(300 ECTS)*
-
----
-
-## 🧰 Core Tools
-**Offensive:** Kali, Burp Suite, Nmap, Metasploit  
-**Defensive:** Splunk (SIEM), Snort (IDS), Wireshark/tcpdump  
-**Scripting:** Python, Bash • **Data:** SQL • **Platforms:** Linux
-
----
-
-## 👨‍💻 Connect
-- LinkedIn: https://www.linkedin.com/in/ioannis-kaldiris-9b461227a/
-- Email: ioanniskaldiris@gmail.com
+<!-- Contributions snake (generated by your workflow to the `output` branch) -->
+![GitHub Snake Light](https://raw.githubusercontent.com/IoannisKaldiris/IoannisKaldiris/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/IoannisKaldiris/IoannisKaldiris/output/github-snake-dark.svg#gh-dark-mode-only)
