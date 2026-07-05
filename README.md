@@ -65,12 +65,18 @@ A hands-on lab simulating real-world attack scenarios and analyzing security tel
 ---
 
 ## 🎓 Education
-- 🎓 Integrated M.Eng. in Computer Engineering & Informatics  
+- 🎓 Integrated Master in Computer Engineering & Informatics  
 - 📖 M.Sc. in Information & Communication Systems Security *(in progress)*  
 
 ---
 
 ## ⚙️ Technical Stack
+
+### Penetration Testing
+- Burp Suite • Metasploit • Nikto • Gobuster • John the Ripper
+- Methodologies: OWASP Testing Guide, MITRE ATT&CK mapping
+- Practicing on HackTheBox (Penetration Tester path) & PortSwigger Web Security Academy
+- Working toward: OSCP / CPTS
 
 ### Security & Networking
 - Splunk • Snort • Wireshark • Nmap • tcpdump
