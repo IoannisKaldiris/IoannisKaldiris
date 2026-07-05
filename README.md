@@ -54,12 +54,13 @@ A hands-on lab simulating real-world attack scenarios and analyzing security tel
 ---
 
 ## 💼 Professional Experience
-**Production Support & Integrations Engineer**
 
-- Investigate issues across enterprise systems and APIs  
-- Analyze logs and correlate events across services  
-- Work with Linux environments, databases, and backend systems  
-- Gain real-world understanding of system behavior and security implications  
+**Junior Software Engineer — Netcompany** *(Jun 2025 – Present)*
+- Backend development on Oracle UIM (Java) for telecom service/network inventory
+- OSS integrations (OSM, ASAP), REST/SOAP APIs, database queries
+- Investigate issues, analyze logs, correlate events across services
+- Support system testing (Unit, SIT, UAT), debugging, deployment coordinationreal-world understanding of system behavior and security implications  
+- Production support — fixed issues across UIM and other enterprise systems
 
 ---
 
