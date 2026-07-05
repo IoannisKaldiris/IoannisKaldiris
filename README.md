@@ -6,7 +6,7 @@
 ## 🔐 About Me
 Cybersecurity-focused Software Engineer with hands-on experience in **security monitoring, log analysis, and system investigation** within enterprise environments.
 
-I work with tools such as **Splunk, Snort, Wireshark, and Nmap**, focusing on detecting suspicious activity, analyzing system behavior, and improving visibility across systems.
+I work with tools such as **Splunk, Snort, Wireshark, Burp and Nmap**, focusing on detecting suspicious activity, analyzing system behavior, and improving visibility across systems.
 
 Alongside defensive security (SOC), I actively develop **offensive security skills** through platforms like HackTheBox, practicing enumeration, vulnerability discovery, and basic exploitation techniques.
 
