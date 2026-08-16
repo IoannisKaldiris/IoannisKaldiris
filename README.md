@@ -105,16 +105,7 @@ This thesis connects my software engineering background with penetration testing
   <img src="https://img.shields.io/badge/Snort-IDS%20Rules-red?style=for-the-badge" />
 </p>
 
-### ⚙️ Programming, Systems & Networking
 
-<p>
-  <img src="https://img.shields.io/badge/Python-Scripting-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-Linux%20Automation-black?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-Queries-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linux-Troubleshooting-black?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-Systems-blue?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/TCP%2FIP-Networking-green?style=for-the-badge" />
-</p>
 
 ## 🎓 Education
 
