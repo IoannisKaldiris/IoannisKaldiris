@@ -79,89 +79,42 @@ This thesis connects my software engineering background with penetration testing
 
 ---
 
-## 🧠 Cybersecurity Skills
+## 🧠 Skills & Tools
 
-### Penetration Testing & Vulnerability Assessment
+### 💼 Professional Engineering Stack
 
-- Web application testing basics
-- Infrastructure testing fundamentals
-- Attack surface analysis
-- Service enumeration
-- Vulnerability assessment
-- Remediation reporting
-- OWASP Web Security basics
+<p>
+  <img src="https://img.shields.io/badge/Oracle%20UIM-Enterprise%20Systems-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-Backend-orange?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PL%2FSQL-Database-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST%20APIs-Integration-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SOAP%20%2F%20XML-OSS%20Integrations-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jenkins-CI%2FCD-red?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-Agile%20Workflows-blue?style=for-the-badge&logo=jira&logoColor=white" />
+</p>
 
-### Security Monitoring & Detection
+### 🔐 Security Labs & Academic Practice
 
-- SIEM and log analysis
-- Splunk searches and dashboards
-- Snort IDS rules
-- Network traffic analysis
-- Alert investigation
-- Basic incident investigation
+<p>
+  <img src="https://img.shields.io/badge/Kali%20Linux-Labs-blue?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-Web%20Security-orange?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-Enumeration-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Metasploit-Basic%20Practice-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wireshark-Traffic%20Analysis-blue?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-SIEM%20Practice-black?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snort-IDS%20Rules-red?style=for-the-badge" />
+</p>
 
-### Tools Used in Labs & Academic Practice
+### ⚙️ Programming, Systems & Networking
 
-- Kali Linux
-- Burp Suite
-- Nmap
-- Metasploit
-- Wireshark
-- tcpdump
-- Netcat
-- Snort
-- Splunk
-- Docker
-- Git
-
----
-
-## ⚙️ Technical Stack
-
-### Programming & Scripting
-
-- Python
-- Bash
-- Java
-- SQL / PL/SQL
-- C fundamentals
-
-### Systems & Networking
-
-- GNU/Linux
-- Windows
-- TCP/IP
-- HTTP/HTTPS
-- DNS basics
-- SSH
-- SMB basics
-- Client-server communication
-
-### Software Engineering & Enterprise Systems
-
-- Oracle UIM
-- REST APIs
-- SOAP Web Services
-- XML
-- Jenkins
-- Jira
-- Backend integrations
-- Debugging and troubleshooting
-- Technical documentation
-
----
-
-## 📚 Current Learning Focus
-
-- HackTheBox and TryHackMe labs
-- PortSwigger Web Security Academy
-- Web application security
-- Linux enumeration and privilege escalation basics
-- Vulnerability write-ups
-- CI/CD and DevSecOps security
-- Secure software engineering
-
----
+<p>
+  <img src="https://img.shields.io/badge/Python-Scripting-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-Linux%20Automation-black?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-Queries-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-Troubleshooting-black?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-Systems-blue?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/TCP%2FIP-Networking-green?style=for-the-badge" />
+</p>
 
 ## 🎓 Education
 
